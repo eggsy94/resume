@@ -1,1 +1,33 @@
-# Resme
+# 남연훈 Nam Yeonhun
+iOS Developer : swift
+- email : namyh358@gmail.com
+- git : https://github.com/eggsy94
+## 경력 
+### Hidayz
+- 2017.05.23 ~ 2018.05.23
+## 회사 프로젝트
+- DayView
+> 회사 : Hidayz
+> 앱소개 : 전세계 이벤트를 시간과 장소의 개념으로 한곳에 모으기 위해 제작된 앱
+> - 개발기술 : swift
+>
+>    - 코드기반 UI개발
+>
+>    - 오픈소스 활용한 커스텀 UI
+>
+>    - Autolayout
+>
+>    - FCM 푸쉬
+>
+>    - 이미지 다운로드 캐싱(SDWebImage)
+>
+>    - Realm을 이용한 DB사용
+>
+>    - GPS이용한 날씨및 GoogleMap 연동
+>
+>    - RESTful API를 이용한 Json파싱(alamofire)
+>
+>    - firebase를 이용한 데이터 관리
+>
+> - 담당업무 : 개발 
+> - 앱스토어 : https://itunes.apple.com/kr/app/dayview/id1334019325?mt=8
