@@ -40,8 +40,11 @@ iOS Developer : swift
 > - 개발기술 : swift
 > 
 >     - 코드기반 UI
+>
 >     - Autolayout
+>
 >     - 커스텀 Chart UI
+>
 >     - Realm을 이용한 DB사용
 >
 > - 담당업무 : 개발 
