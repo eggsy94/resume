@@ -48,5 +48,7 @@ iOS Developer : swift
 >
 >     - Realm을 이용한 DB사용
 >
+>     - 차트 UI개발
+>
 > - 담당업무 : 개발 
 > - 앱스토어 : 개발중...
