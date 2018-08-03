@@ -13,23 +13,23 @@ iOS Developer : swift
 > 앱소개 : 전세계 이벤트를 시간과 장소의 개념으로 한곳에 모으기 위해 제작된 앱
 > - 개발기술 : swift
 >
->    - 코드기반 UI개발
+>     - 코드기반 UI개발
 >
->    - 오픈소스 활용한 커스텀 UI
+>     - 오픈소스 활용한 커스텀 UI
 >
->    - Autolayout
+>     - Autolayout
 >
->    - FCM 푸쉬
+>     - FCM 푸쉬
 >
->    - 이미지 다운로드 캐싱(SDWebImage)
+>     - 이미지 다운로드 캐싱(SDWebImage)
 >
->    - Realm을 이용한 DB사용
+>     - Realm을 이용한 DB사용
 >
->    - GPS이용한 날씨및 GoogleMap 연동
+>     - GPS이용한 날씨및 GoogleMap 연동
 >
->    - RESTful API를 이용한 Json파싱(alamofire)
+>     - RESTful API를 이용한 Json파싱(alamofire)
 >
->    - firebase를 이용한 데이터 관리
+>     - firebase를 이용한 데이터 관리
 >
 > - 담당업무 : 개발 
 > - 앱스토어 : https://itunes.apple.com/kr/app/dayview/id1334019325?mt=8
