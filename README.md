@@ -5,6 +5,8 @@ iOS Developer : swift
 ## 경력 
 ### Hidayz
 - 2017.05.23 ~ 2018.05.23
+### Pie
+- 2018.07.04 ~
 ## 회사 프로젝트
 - DayView
 > 회사 : Hidayz
@@ -31,3 +33,16 @@ iOS Developer : swift
 >
 > - 담당업무 : 개발 
 > - 앱스토어 : https://itunes.apple.com/kr/app/dayview/id1334019325?mt=8
+
+- JanusPro
+> 회사 : Pie
+> 앱소개 : 피부진단기에서 받은 정보를 고객님들에게 보여주기위한 앱
+> - 개발기술 : swift
+> 
+>     - 코드기반 UI
+>     - Autolayout
+>     - 커스텀 Chart UI
+>     - Realm을 이용한 DB사용
+>
+> - 담당업무 : 개발 
+> - 앱스토어 : 개발중...
