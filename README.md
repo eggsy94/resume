@@ -44,8 +44,6 @@ iOS Developer : swift
 >
 >     - 코드기반 UI개발
 >
->     - 차트 UI개발
->
 >     - Autolayout
 >
 >     - Realm을 이용한 DB사용
