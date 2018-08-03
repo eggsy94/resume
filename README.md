@@ -44,7 +44,7 @@ iOS Developer : swift
 >
 >     - 코드기반 UI개발
 >
->     - 차트 UI 커스텀
+>     - 차트 UI커스텀
 >
 >     - Autolayout
 >
