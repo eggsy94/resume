@@ -48,7 +48,7 @@ iOS Developer : swift
 >
 >     - Realm을 이용한 DB사용
 >
->     - 커스텀 UI(차트)
+>     - 커스텀 UI(차트) 
 >
 >     - RESTful API를 이용한 Json파싱(alamofire)
 >
