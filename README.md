@@ -5,8 +5,8 @@ iOS Developer : swift
 ## 경력 
 ### Hidayz
 - 2017.05.23 ~ 2018.05.23
-### Pie
-- 2018.07.04 ~
+### BYFI
+- 2018.09.03 ~
 ## 회사 프로젝트
 - DayView
 > 회사 : Hidayz
@@ -52,3 +52,5 @@ iOS Developer : swift
 >     - RESTful API를 이용한 Json파싱(alamofire)
 >
 > - 담당업무 : 개발 
+
+
