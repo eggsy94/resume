@@ -52,4 +52,3 @@ iOS Developer : swift
 >     - RESTful API를 이용한 Json파싱(alamofire)
 >
 > - 담당업무 : 개발 
-> - 앱스토어 : 개발중...
