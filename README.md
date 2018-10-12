@@ -12,7 +12,7 @@ iOS Developer : swift
 > 회사 : Hidayz
 >
 > 앱소개 : 전세계 이벤트를 시간과 장소의 개념으로 한곳에 모으기 위해 제작된 앱
->  - 개발기술 : swift
+>  - 개발기술 : Swift
 >
 >     - 코드기반 UI개발
 >
@@ -32,14 +32,14 @@ iOS Developer : swift
 >
 >     - firebase를 이용한 데이터 관리
 >
-> - 담당업무 : 개발 
+> - 담당업무 : 개발(처음부터 배포까지) 
 > - 앱스토어 : https://itunes.apple.com/kr/app/dayview/id1334019325?mt=8
 
 - JanusPro
 > 회사 : Pie
 >
 > 앱소개 : 피부진단기에서 받은 정보를 고객님들에게 보여주기위한 앱
->  - 개발기술 : swift
+>  - 개발기술 : Swift
 >
 >     - 코드기반 UI개발
 >
@@ -51,6 +51,24 @@ iOS Developer : swift
 >
 >     - RESTful API를 이용한 Json파싱(alamofire)
 >
-> - 담당업무 : 개발 
+> - 담당업무 : 개발
 
-
+- E복지 관리자
+> 회사 : BYFI
+>
+> 앱소개 : E복지 
+> - 개발기술 : Swift
+>   
+>     - 코드기반 UI개발
+>   
+>     - Autolayout
+>   
+>     - Realm을 이용한 DB사용
+>
+>     - 커스텀 UI(차트) 
+>
+>     - RESTful API를 이용한 Json파싱(alamofire)
+>
+>     - PG사 연결 웹 결제 구현
+>
+> - 담당업무 : 개발
