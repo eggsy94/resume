@@ -32,7 +32,7 @@ iOS Developer : swift
 >   - Realm을 이용한 DB사용
 >   - GPS이용한 날씨및 GoogleMap 연동
 >   - RESTful API를 이용한 Json파싱(alamofire)
->   - firebase를 이용한 데이터 관리
+>   - firebase를 이용한 데이터 관리 (Colud Firstore , Realtime Database)
 > - 담당업무 : 개발
 > - 참여율 : 100%
 > - 기간 :  17.7 ~ 18.5 (총 4번의 전체 리뉴얼 진행)
@@ -54,4 +54,4 @@ iOS Developer : swift
 > - 담당업무 : 개발
 > - 참여율 : 100%
 > - 기간 : 18.9.3 ~ 
-> - 앱스토어 : 결제 문제로 인한 인하우스 배포
+> - 앱스토어 : 결제 문제로 인하우스 배포
