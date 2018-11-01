@@ -17,7 +17,7 @@ iOS Developer : swift
 
 ## 회사 프로젝트
 
-- DayView
+- DayView(SNS)
 
 > 회사 : Hidayz
 >
@@ -39,7 +39,7 @@ iOS Developer : swift
 > - 앱스토어 : https://itunes.apple.com/kr/app/dayview/id1334019325?mt=8
 > <img width="500" alt="portfolio_view" src="https://github.com/hunjjang/resume/blob/master/DayViewImage.jpg">
 
-- E복지 관리자
+- E복지 관리자(E-Commerce)
 
 > 회사 : BYFI
 >
