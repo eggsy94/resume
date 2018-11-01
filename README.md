@@ -37,7 +37,8 @@ iOS Developer : swift
 > - 참여율 : 100%
 > - 기간 :  17.7 ~ 18.5 (총 4번의 전체 리뉴얼 진행)
 > - 앱스토어 : https://itunes.apple.com/kr/app/dayview/id1334019325?mt=8
-> ![](https://github.com/hunjjang/resume/DayViewImage.jpg?raw=true)
+> <img width="500" alt="portfolio_view" src="https://github.com/hunjjang/resume/blob/master/DayViewImage.jpg">
+
 - E복지 관리자
 
 > 회사 : BYFI
