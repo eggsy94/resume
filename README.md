@@ -3,7 +3,7 @@
 iOS Developer : swift
 
 - email : namyh358@gmail.com
-- git : https://github.com/eggsy94
+- git : https://github.com/hunjjang
 
 ## 경력 
 
