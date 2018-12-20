@@ -56,3 +56,18 @@ iOS Developer : swift
 > - 참여율 : 100%
 > - 기간 : 18.9 ~ 18.11
 > - 앱스토어 : 결제 문제로 인하우스 배포
+
+- E단비(EDanbi)
+
+> 회사 : BYFI
+>
+> 앱소개 : e복지 고객관리 앱
+>
+> - 개발기술 : Swift
+>   - 코드기반 UI개발
+>   - Autolayout
+>   - ReactorKit 사용
+>   - RESTful API를 이용한 Json파싱(Moya)
+> - 담당업무 : 개발
+> - 참여율 : 100%
+> - 기간 : 18.12 ~ 18.12
