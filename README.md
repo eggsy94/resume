@@ -66,9 +66,10 @@ iOS Developer : swift
 > - 개발기술 : Swift
 >   - 코드기반 UI개발
 >   - Autolayout
->   - ReactorKit 사용
+>   - ReactorKit
+>   - RxSwift 
 >   - RESTful API를 이용한 Json파싱(Moya)
-> - 담당업무 : 개발
+> - 담당업무 : 
 > - 참여율 : 100%
 > - 기간 : 18.12 ~ 18.12
 > <img width="500" alt="portfolio_view" src="https://github.com/hunjjang/resume/blob/master/EdanbiSC.png">
