@@ -71,3 +71,4 @@ iOS Developer : swift
 > - 담당업무 : 개발
 > - 참여율 : 100%
 > - 기간 : 18.12 ~ 18.12
+> <img width="500" alt="portfolio_view" src="https://github.com/hunjjang/resume/blob/master/EdanbiSC.png">
