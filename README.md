@@ -69,7 +69,27 @@ iOS Developer : swift
 >   - ReactorKit
 >   - RxSwift 
 >   - RESTful API를 이용한 Json파싱(Moya)
-> - 담당업무 : 
+> - 담당업무 : 개발, 배포
 > - 참여율 : 100%
 > - 기간 : 18.12 ~ 18.12
+> - 앱스토어 : https://itunes.apple.com/kr/app/e%EB%8B%A8%EB%B9%84/id1447448667?mt=8
 > <img width="500" alt="portfolio_view" src="https://github.com/hunjjang/resume/blob/master/EdanbiSC.png">
+
+- E복지(웹앱)
+
+> 회사 : BYFI
+>
+> 앱소개 : 회사의 복지를 편하게 관리해주는 앱
+>
+> - 개발기술 : Swift
+>   - 코드기반 UI개발
+>   - Autolayout
+>   - ReactorKit
+>   - RxSwift 
+>   - RESTful API를 이용한 Json파싱(Moya)
+>   - JavaScript 연결
+> - 담당업무 : 개발, 배포
+> - 참여율 : 100%
+> - 기간 : 18.12 ~ 18.12
+
+
