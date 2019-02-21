@@ -91,5 +91,5 @@ iOS Developer : swift
 > - 담당업무 : 개발, 배포
 > - 참여율 : 100%
 > - 기간 : 18.12 ~ 18.12
-
+> - 앱스토어 : https://itunes.apple.com/in/app/이복지/id1448654587?mt=8&ign-mpt=uo%3D2
 
