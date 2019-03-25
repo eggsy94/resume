@@ -13,7 +13,11 @@ iOS Developer : swift
 
 ### BYFI
 
-- 2018.09.03 ~
+- 2018.09.03 ~ 2019.01.31
+
+### BizBlocks
+
+- 2019.03.04 ~
 
 ## 회사 프로젝트
 
@@ -91,5 +95,35 @@ iOS Developer : swift
 > - 담당업무 : 개발, 배포
 > - 참여율 : 100%
 > - 기간 : 18.12 ~ 18.12
-> - 앱스토어 : https://itunes.apple.com/in/app/이복지/id1448654587?mt=8&ign-mpt=uo%3D2
+> - 앱스토어: https://itunes.apple.com/in/app/이복지/id1448654587?mt=8&ign-mpt=uo%3D2
 
+- E단비
+>
+> 회사: BYFI
+>
+> 앱소개: 명함을 이용한 고객관리
+>
+> - 개발기술:  Swift
+>   - 코드기반  UI 개발
+>   - Autolayout
+>   - ReactorKit
+>   - RxSwift 
+>   - RESTful API를 이용한 Json파싱(Moya)
+>   - 담당업무: 개발
+>   - 참여율 50%
+>   - 기간 18.12 ~ 19.01
+
+- 카이져 뱅크
+>
+> 회사: BizBlocks
+>
+> 앱소개: 코인 지갑, 거래
+>
+> - 개발기술 : Swift
+>   - ReactorKit
+>   - RxSwift 
+>   - RESTful API를 이용한 Json파싱(Moya)
+>   - JavaScript 연결
+> - 담당업무 : 개발
+> - 참여율 : 100%
+> - 기간 : 19.03 ~
