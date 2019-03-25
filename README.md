@@ -97,22 +97,6 @@ iOS Developer : swift
 > - 기간 : 18.12 ~ 18.12
 > - 앱스토어: https://itunes.apple.com/in/app/이복지/id1448654587?mt=8&ign-mpt=uo%3D2
 
-- E단비
->
-> 회사: BYFI
->
-> 앱소개: 명함을 이용한 고객관리
->
-> - 개발기술:  Swift
->   - 코드기반  UI 개발
->   - Autolayout
->   - ReactorKit
->   - RxSwift 
->   - RESTful API를 이용한 Json파싱(Moya)
->   - 담당업무: 개발
->   - 참여율 50%
->   - 기간 18.12 ~ 19.01
-
 - 카이져 뱅크
 >
 > 회사: BizBlocks
