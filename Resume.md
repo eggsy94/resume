@@ -128,6 +128,7 @@ iOS Developer : swift
 > - 담당업무 : 개발
 > - 참여율 : 50%
 > - 기간 : 19.05 ~ 19.06
+> - 앱스토어: https://apps.apple.com/us/app/고양이축소범/id1471957668?l=ko&ls=1
 
 - Hodoo
 > 회사: Ahqlab
