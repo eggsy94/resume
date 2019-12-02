@@ -110,4 +110,39 @@ iOS Developer : swift
 >   - JavaScript 연결
 > - 담당업무 : 개발
 > - 참여율 : 100%
-> - 기간 : 19.03 ~
+> - 기간 : 19.03 ~ 19.05
+
+- 고양이 축소범
+> 회사: Ahqlab
+> 
+> 앱소개: 고양이 다이어트
+>
+> - 개발기술 : Swift, js
+>   - 코드기반 UI개발
+>   - Autolayout
+>   - ReactorKit
+>   - RxSwift 
+>   - Firebase
+>   - Firebase Functions
+>   - FCM 푸쉬
+> - 담당업무 : 개발
+> - 참여율 : 50%
+> - 기간 : 19.05 ~ 19.06
+
+- Hodoo
+> 회사: Ahqlab
+> 
+> 앱소개: 반려동물 다이어트
+>
+> - 개발기술 : Swift, js
+>   - 코드기반 UI개발
+>   - Autolayout
+>   - ReactorKit
+>   - RxSwift 
+>   - Firebase
+>   - Firebase Functions
+>   - FCM 푸쉬
+>   - Realm을 이용한 DB사용
+> - 담당업무 : 개발
+> - 참여율 : 100%
+> - 기간 : 19.05 ~ 
