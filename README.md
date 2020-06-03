@@ -144,6 +144,7 @@ iOS Developer : swift
 >   - Firebase Functions
 >   - FCM 푸쉬
 >   - Realm을 이용한 DB사용
+>   - BLE 통신
 > - 담당업무 : 개발
 > - 참여율 : 100%
 > - 기간 : 19.05 ~ 
