@@ -1,3 +1,16 @@
+
+
+
+립
+
+입생로랑 
+틴트 12호
+
+루쥬볼립떼샤인 12호
+
+샤넬 틴트 812
+
+
 # 남연훈 Nam Yeonhun
 
 iOS Developer : swift
@@ -22,6 +35,9 @@ iOS Developer : swift
 ### Ahqlab
 
 - 2019.04.06 ~ 2020.06.30
+
+### TrueValue
+- 2020.08.16 ~
 
 ## 회사 프로젝트
 
@@ -151,4 +167,18 @@ iOS Developer : swift
 >   - BLE 통신
 > - 담당업무 : 개발
 > - 참여율 : 100%
-> - 기간 : 19.05 ~ 
+> - 기간 : 19.05 ~ 20.06
+
+- DreamAppeal
+> 회사: TrueValue
+> 
+> 앱소개: 꿈을가진 사람들을 상대로 하는 SNS기반 데이터 센터
+>
+> -개발기술: SwiftUI, Combine
+>  - Clean Archtecture
+>  - Firebase Functions
+>  - Firebase Firestore
+>  - Alamofire
+>  - Kingfisher
+>  - 기간: 20.08 ~
+>  - 앱스토어: https://apps.apple.com/us/app/%EB%93%9C%EB%A6%BC%EC%96%B4%ED%95%84/id1523600318
