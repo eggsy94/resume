@@ -1,16 +1,5 @@
 
 
-
-립
-
-입생로랑 
-틴트 12호
-
-루쥬볼립떼샤인 12호
-
-샤넬 틴트 812
-
-
 # 남연훈 Nam Yeonhun
 
 iOS Developer : swift
